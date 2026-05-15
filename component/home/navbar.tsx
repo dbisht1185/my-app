@@ -20,6 +20,9 @@ export default function Navbar() {
                 <Link href="/freelance" className="m-5">
                     Freelance
                 </Link>
+                <Link href="/name-sense" className="m-5">
+                    NameSense
+                </Link>
                 <Link href="/template" className="m-5">
                     Templates
                 </Link>
